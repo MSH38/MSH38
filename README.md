@@ -10,7 +10,7 @@
 - :school: I am a `ITI Graduated - Full Stack Development Using PHP & Laravel ,
 Computer Science Graduated` from Faculty of science computer science department Zagazig University
 - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently improving my skills in `PHP` , `MYSQL` & `Laravel`;
+- 🌱 currently improving my skills in `PHP` , `MYSQL` & `Laravel`;
 - 📫 How to reach me **m.samy1011997@gmail.com** | **https://www.linkedin.com/in/mahmoud-heikal/**
 - :thinking: I’m currently open for: `An Intern` || `A Junior` job opportunity, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1_ngrQyUPKayxt0fd1QrKVgKYfxLz4OQT).
 - :nerd_face: Always `learning new things`
