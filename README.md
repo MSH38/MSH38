@@ -49,7 +49,7 @@ Computer Science Graduated` from Faculty of science computer science department 
 </p>
 
 
-## 📊 Github Stats
+## 📊 Github Status
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MSH38&theme=tokyonight_duo" alt="MSH38" /></p>
   <br/>
   <p align="center">
