@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Samy Heikal</h1>
 <h3 align="center">software engineer | Full stack web developer | Backend developer using PHP & Laravel from Egypt</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud samy Heikal" />
 		   <img src="https://img.shields.io/github/followers/msh38?label=Followers" alt="MSH38" />
 </p>
 <br>
@@ -9,10 +9,10 @@
 
 - :school: I am a `ITI Graduated - Full Stack Development Using PHP & Laravel ,
 Computer Science Graduated` from Faculty of science computer science department Zagazig University
-- 🔭 I’m currently working as Freelancer
-- 🌱 currently improving my skills in `PHP` , `MYSQL` & `Laravel`;
+- 🔭 I’m currently working as Backend developer in shahbandr
+- 🌱 currently improving my skills in `PHP` , `MYSQL` , `Laravel` , `Custom Wordpress plugins` , `Custome woocommerce plugins`;
 - 📫 How to reach me **m.samy1011997@gmail.com** | **https://www.linkedin.com/in/mahmoud-heikal/**
-- :thinking: I’m currently open for: `An Intern` || `A Junior` job opportunity, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1_ngrQyUPKayxt0fd1QrKVgKYfxLz4OQT).
+- :thinking: I’m currently open for:  `A Junior` || `A Mid-Level` job opportunity, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1_ngrQyUPKayxt0fd1QrKVgKYfxLz4OQT).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
