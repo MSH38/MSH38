@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Samy Heikal</h1>
-<h3 align="center">software engineer | Full stack web developer | Backend developer using PHP & Laravel from Egypt</h3>
+<h3 align="center">Software Engineer | Backend Developer (PHP/Laravel) | Full Stack Developer | WordPress Custom Plugin Specialist from Egypt</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud samy Heikal" />
-		   <img src="https://img.shields.io/github/followers/msh38?label=Followers" alt="MSH38" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud samy Heikal" />
+  <img src="https://img.shields.io/github/followers/msh38?label=Followers" alt="MSH38" />
 </p>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
-- :school: I am a `ITI Graduated - Full Stack Development Using PHP & Laravel ,
-Computer Science Graduated` from Faculty of science computer science department Zagazig University
-- 🔭 I’m currently working as Backend developer in shahbandr
-- 🌱 currently improving my skills in `PHP` , `MYSQL` , `Laravel` , `Custom Wordpress plugins` , `Custome woocommerce plugins`;
-- 📫 How to reach me **m.samy1011997@gmail.com** | **https://www.linkedin.com/in/mahmoud-heikal/**
-- :thinking: I’m currently open for:  `A Junior` || `A Mid-Level` job opportunity, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1_ngrQyUPKayxt0fd1QrKVgKYfxLz4OQT).
-- :nerd_face: Always `learning new things`
-- 🐼 Doing my best 
+- :school: I am an **ITI Graduate** - *Full Stack Web Development Using PHP & Laravel*, and a **Computer Science Graduate** from Faculty of Science, Zagazig University.
+- 💼 Currently working as **Backend Developer at Shahbandr**
+- 🔭 Experience in `PHP`, `Laravel`, `Custom WordPress Plugins`, `Custom WooCommerce Plugins`, `RESTful APIs`, and `MySQL`.
+- 🌱 Improving my skills in advanced Laravel features, Docker, and scalable system design.
+- 📫 Reach me at **m.samy1011997@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mahmoud-heikal/)
+- :thinking: Open for **Junior / Mid-Level Backend Developer** roles.
+- :nerd_face: Always learning new things.
+- 🐼 Doing my best.
 
+---
 <br>
 
 ## 📩 Connect with me
@@ -24,28 +26,55 @@ Computer Science Graduated` from Faculty of science computer science department 
     <a href="https://www.linkedin.com/in/mahmoud-heikal/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
+## 🏢 Work Experience
+- **Backend Developer | Shahbandr** *(May 2024 – Present)*
+  - Built & customized **WordPress/WooCommerce plugins** including payment integrations (Amazon Pay, Stripe, Moyasar, Tamara, Kashier, Paylink, Click Pay, etc.).
+  - Developed Laravel-based systems with **API & webhook integrations**.
+  - Integrated **multi-tenant e-commerce platform** using Shahbandr white-label APIs.
+  - Enhanced **Shahbandr Dashboard**: order management improvements, custom account management, shoppable video features.
+
+- **Backend Developer (Freelancer) | Semicolon** *(Feb 2024)*
+  - Developed and updated backend features using Laravel & MySQL.
+  - Worked on MVC & API projects with Bootstrap & jQuery.
+
+- **Full Stack Developer (Part-Time) | Blue Worldwide** *(Jan 2024 – Mar 2024)*
+  - Applied **Clean Architecture** principles in Laravel projects.
+  - Developed scalable backend solutions with AJAX & MySQL.
+
+- **Backend Developer (Part-Time) | POSLIX** *(Sep 2023 – Feb 2024)*
+  - Maintained & enhanced POS system features.
+  - Developed **RESTful APIs** with JWT authentication.
+
+---
+
+## 🚀 Featured Projects
+- **Shahbandr White-label Integration** – Multi-tenant e-commerce via API.
+- **BWW Multi-vendor Store** – Laravel e-commerce with payment & messaging integrations.
+- **Shoppable Video for WooCommerce** – Video commerce with product tagging & analytics.
+- **POSLIX POS System** – Multi-vendor POS with secure authentication.
+- **Dacktra** – Medical booking platform with Arabic PDF automation.
+
+---
+
 ## 🛠 Languages and Tools
 <br>
 <p align="center">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
+<a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://getbootstrap.com"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </p>
 
 
