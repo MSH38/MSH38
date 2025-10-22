@@ -13,7 +13,7 @@
 - 🔭 Experience in `PHP`, `Laravel`, `Custom WordPress Plugins`, `Custom WooCommerce Plugins`, `RESTful APIs`, and `MySQL`.
 - 🌱 Improving my skills in advanced Laravel features, Docker, and scalable system design.
 - 📫 Reach me at **m.samy1011997@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mahmoud-heikal/)
-- :thinking: Open for **Junior / Mid-Level Backend Developer** roles.
+- :thinking: Open for ** Mid-Level Backend Developer** roles.
 - :nerd_face: Always learning new things.
 - 🐼 Doing my best.
 
