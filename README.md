@@ -115,7 +115,10 @@
 <p align="center">
   📍 Based in <b>Cairo, Egypt</b> — Open to relocation
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud samy Heikal" />
+  <img src="https://img.shields.io/github/followers/msh38?label=Followers" alt="MSH38" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/msh38?label=Followers&style=flat&color=brightgreen" />
