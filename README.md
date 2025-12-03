@@ -109,133 +109,184 @@
  -->
 <h1 align="center">Hi 👋, I'm Mahmoud Samy Heikal</h1>
 <h3 align="center">
-Software Engineer | Backend Developer (PHP/Laravel) | WordPress Plugin Specialist
+✨ Software Engineer · Backend Developer (PHP/Laravel) · WordPress/WooCommerce Plugin Specialist ✨
 </h3>
 
 <p align="center">
-📍 Based in Cairo, Egypt — Open to relocation  
+  📍 Based in <b>Cairo & Alexandria, Egypt</b> — Open to relocation
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/msh38?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/followers/msh38?label=Followers&style=flat&color=brightgreen" />
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="230"/>
+<p align="center">
+  <a href="mailto:m.samy1011997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-m.samy1011997%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-heikal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Heikal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/msh38">
+    <img src="https://img.shields.io/badge/GitHub-msh38-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 Summary
 
-Backend Engineer with **2+ years of hands-on experience** in building scalable and secure backend systems using **Laravel** and **WordPress/WooCommerce**.  
-Specialized in **multi-tenant e-commerce**, **POS systems**, **affiliate architectures**, and **custom plugins** powering real digital businesses.
+Backend Engineer with **2+ years of hands-on experience** building scalable and secure backend systems using **Laravel** and **WordPress/WooCommerce**.
 
-Strong expertise in:
+I specialize in:
 
-✔ Laravel Architecture — Repository Pattern, SOLID, Queues  
-✔ Secure RESTful APIs, Webhooks & Payment Integrations  
-✔ Performance optimization, maintainable code & CI workflows  
-✔ WordPress & WooCommerce plugin development
+- 🧩 **Multi-tenant e-commerce & SaaS**
+- 💸 **Affiliate systems & payment/shipping integrations**
+- 🧾 **POS systems & business dashboards**
+- 🔌 **Custom WordPress/WooCommerce plugins**
 
-Currently Backend Developer at **Shahbandr**, contributing to a commerce ecosystem serving **20K+ online stores**.
+**Strong expertise in:**
 
-Passionate about crafting high-quality software and continuously learning emerging technologies.
+- ✅ Laravel Architecture — Repository Pattern, SOLID, Queues  
+- ✅ Secure RESTful APIs, Webhooks & Payment Gateways  
+- ✅ Performance optimization & maintainable, clean code  
+- ✅ WooCommerce plugin development & complex integrations  
+
+Currently working as a **Backend Developer at Shahbandr**, contributing to a commerce ecosystem serving **20K+ online stores**, and constantly improving my skills in scalable backend design and modern PHP/Laravel practices.
 
 ---
 
 ## 🏫 Education
 
 🎓 **B.Sc. in Computer Science** — Faculty of Science, Zagazig University  
-📅 Graduated: 2021
+📅 Graduated: **2021**
 
-🎓 **ITI — Information Technology Institute**  
-Track: Full Stack Web Development Using PHP & Laravel  
-📍 Jul 2022 to Aug 2022
+🎓 **Information Technology Institute (ITI)** — Egypt  
+Track: **Full Stack Web Development using PHP & Laravel**  
+📅 Jul 2022 – Aug 2022  
 
 ---
 
 ## 🏢 Work Experience
 
 ### 🔹 Backend Developer | Shahbandr *(May 2024 – Present)*
-- Build & enhance WooCommerce plugins (Payments, Memberships, Import/Export, Facebook, etc.)
-- Develop **multi-tenant** store provisioning using White-label APIs
-- Shipping plugins with carrier management & automation
-- Shoppable video experience: tagging, analytics & smooth UX improvements
+
+- Built & enhanced custom **WordPress/WooCommerce plugins** (Payments, Memberships, Import/Export, Facebook, Shipping, etc.).
+- Developed **multi-tenant white-label store provisioning** using Shahbandr APIs.
+- Worked on **Shahbandr Dashboard** modules (orders, subscriptions, domains, accounts, billing).
+- Implemented **Shoppable Video** experience (CRUD, product tagging, analytics, sharing).
+- Integrated various **shipping & payment providers** into Shahbandr ecosystem.
+
+---
 
 ### 🔹 Full Stack Developer | Blue Worldwide *(Remote, Part-Time – 2024)*
-- Developed **Affiliate Dashboard** using Laravel + PostgreSQL + Filament
-- Applied Clean Architecture, SOLID & Jira-based workflows
+
+- Developed **Affiliate Dashboard** (BWW Affiliate Platform) with Laravel, PostgreSQL & Filament.
+- Applied **Clean Architecture, Repository Pattern, SOLID principles**.
+- Collaborated via **GitHub** & **Jira** with code review and version control best practices.
+
+---
 
 ### 🔹 Backend Developer | POSLIX *(Remote – Sep 2023 → Feb 2024)*
-- Developed new POS system features with secure multi-role access
-- JWT Authentication & mission-critical API development
+
+- Implemented features in an online **POS system** with multi-vendor support.
+- Developed secure **RESTful APIs** with **JWT authentication** and role-based access.
+- Improved reliability, security, and performance of backend services.
+
+---
 
 ### 🔹 Backend Developer | Semicolon *(Freelancer – Feb 2024)*
-- Built API-driven hiring system with full CRUD & authentication
+
+- Built and updated backend features using **Laravel & MySQL**.
+- Developed **MVC & API** modules with Bootstrap, jQuery, and AJAX.
+- Worked on hiring & admin platforms with secure authentication.
+
+---
 
 ### 🔹 Freelance Web Developer *(2023)*
-- Delivered full-stack projects with direct customer collaboration
+
+- Delivered full-stack web solutions for various clients.
+- Handled design, backend, deployment, and maintenance end-to-end.
 
 ---
 
-## 🚀 Major Projects & Plugins
+## 🚀 Major Projects & Platforms
 
-### Enterprise Projects
+### 🧱 Enterprise & Platform Projects
+
 | Project | Description | Tech |
-|--------|-------------|-----|
-| **BWW Affiliate Platform** (Live) | Scalable e-commerce with affiliate commissions & vendor onboarding | Laravel, PostgreSQL, Filament, SOLID, GitHub, Jira |
-| **Shahbandr White-label API** | Automated store provisioning, billing & onboarding | Laravel, Queues, REST APIs |
-| **Shoppable Video System** | Product-linked videos + analytics | PHP Native, WooCommerce, JS |
-| **POSLIX POS System** | Multi-vendor POS + JWT secure auth | Laravel, MySQL |
+|--------|-------------|------|
+| **BWW Affiliate Platform** (Live) | Scalable affiliate-based e-commerce platform with vendor onboarding, commission tracking, and financial reporting | Laravel · PostgreSQL · Filament · SOLID · Design Patterns · GitHub · Jira |
+| **BWW Multi-vendor Store** (Live) | Multi-vendor e-commerce store with advanced product management, vendor flows & data tables | Laravel · MySQL · JavaScript · jQuery · Yajra DataTables · Design Patterns · SOLID |
+| **Shahbandr White-label API** | Automated provisioning of e-commerce stores, subscriptions, billing, and onboarding via APIs | Laravel · Queues · REST APIs · Webhooks |
+| **Shahbandr Dashboard** | Internal admin dashboard for managing orders, subscriptions, domains, accounts & shoppable video | PHP Native · Laravel · WordPress · WooCommerce · jQuery · Alpine.js · DataTables |
+| **POSLIX POS System** | Multi-vendor POS web app with JWT authentication, roles & secure API | Laravel · MySQL · REST APIs · JWT |
 
 ---
 
-### Custom WooCommerce Plugins (Development & Rebranding)
-- Amazon Pay Gateway
-- Stripe Gateway
-- Moyasar / Tamara / Kashier / Paylink / ClickPay / Paymob / Tappy
-- Shipping Plugin with conditional carriers
-- Weight-based Shipping (enhanced experience)
-- WooCommerce Import/Export Enhancements
-- WooCommerce Membership Control
-- Facebook for WooCommerce Sync Fixes
+### 🧩 Custom WooCommerce Plugins (Development & Rebranding)
+
+- 💳 **Payment Gateways**  
+  Amazon Pay, Stripe, Moyasar, Tamara, Kashier, Paylink, ClickPay, Paymob, Tappy
+
+- 🚚 **Shipping & Logistics**  
+  - Custom Shipping Plugin (default carrier + per-product/per-zone control)  
+  - Weight-Based Shipping (rebranded + tiered rates + free shipping rules)
+
+- 📦 **Store Operations**  
+  - WooCommerce Import/Export enhancements  
+  - WooCommerce Membership access control  
+  - Facebook for WooCommerce (rebranded + sync fixes)
+
+These plugins were deeply integrated into the **Shahbandr ecosystem** to support real merchants at scale.
 
 ---
 
-### Additional Projects
+### 📌 Other Notable Projects
+
 | Project | Focus Area | Tech |
-|--------|-------------|-----|
-| **Dacktra Medical** | Booking + Arabic PDF automation | Laravel, Bootstrap |
-| **Semicolon Hiring** | Admin + JWT auth system | Laravel, MySQL |
-| **Deluxe Hotel Booking** | Roles, permissions, Stripe | Laravel, Spatie |
-| **ITI Graduation Project** | Multi-role dashboards + payments | Laravel |
+|--------|------------|------|
+| **Dacktra Medical Platform** (Live) | Online medical booking, Arabic contract management & PDF generation | Laravel · Bootstrap · Arabic PDF processing |
+| **ICTC Online Courses Center** | Online course center with enrollment, course management & user access control | Laravel · MySQL · Blade · Bootstrap |
+| **Semicolon Hiring System** | Hiring & job management system with JWT-secured admin API | Laravel · MySQL · REST APIs · JWT |
+| **Deluxe Hotel Booking** | Hotel admin panel with roles & permissions, Stripe payments & email notifications | Laravel · Spatie Permissions · Stripe · Mailtrap |
+| **ITI Graduation Project** | Multi-role system with admin panel, integrated payments & APIs | Laravel · MySQL |
 
 ---
 
-## 🛠 Tech Stack
+## 🎨 Tech Stack & Tools
 
-### Backend & Architecture
+### 🖥 Backend & Architecture
 `PHP` · `Laravel` · `Repository Pattern` · `SOLID` · `Queues` · `REST APIs` · `Webhooks`
 
-### WordPress & WooCommerce
-Plugins · Hooks · Webhooks · Admin UI Design
+### 🌐 WordPress & WooCommerce
+Custom Plugins · Hooks · Filters · Webhooks · Admin UI
 
-### Databases
-`PostgreSQL` · `MySQL` · `SQLite` · `Database Design (ERD/PRD)`
+### 🗄 Databases
+`PostgreSQL` · `MySQL` · `SQLite` · Database Design (`ERD`, `PRD`)
 
-### Frontend
-`HTML` · `CSS` · `Bootstrap` · `Tailwind` · `JavaScript` · `jQuery` · `Alpine.js`
+### 🎨 Frontend
+`HTML` · `CSS` · `Bootstrap` · `JavaScript` · `jQuery` · `Alpine.js`
 
-### Tools
-`Git` · `GitHub` · `Jira` · `Postman` · `Docker (Basics)` · `Mailtrap`
+### 🧰 Tools & Platforms
+`Git` · `GitHub` · `Jira` · `Zoho` · `ClickUp` · `Postman` · `Docker (Basics)` · `Mailtrap`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSH38&theme=tokyonight_duo" />
-  <br>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MSH38&show_icons=true&theme=tokyonight&count_private=true" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MSH38&langs_count=10&theme=tokyonight" height="200px" />
 </p>
@@ -243,19 +294,20 @@ Plugins · Hooks · Webhooks · Admin UI Design
 ---
 
 ## 🧠 Soft Skills
-✔ Problem Solving · ✔ Teamwork · ✔ Communication · ✔ Time Management · ✔ Fast Self-learning
+
+✅ Problem Solving  
+✅ Teamwork & Collaboration  
+✅ Communication  
+✅ Time Management  
+✅ Fast Self-Learning  
 
 ---
 
 ## 🌍 Languages
-- Arabic — Native
-- English — Good Professional Proficiency
+
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — Good Professional Proficiency  
 
 ---
 
-## ⚠️ License
-📌 **All Rights Reserved — Copying or reusing any content, code, design, or assets is strictly prohibited.**
-
-© 2025 Mahmoud Samy Heikal — All Rights Reserved
-5 Mahmoud Samy Heikal
-
+© **2025 Mahmoud Samy Heikal**
