@@ -119,10 +119,6 @@
   <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud samy Heikal" />
   <img src="https://img.shields.io/github/followers/msh38?label=Followers" alt="MSH38" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/msh38?label=Followers&style=flat&color=brightgreen" />
-</p>
 
 <p align="center">
   <a href="mailto:m.samy1011997@gmail.com">
@@ -135,6 +131,7 @@
     <img src="https://img.shields.io/badge/GitHub-msh38-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
 ---
 
