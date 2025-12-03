@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Samy Heikal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mahmoud Samy Heikal</h1>
 <h3 align="center">Software Engineer | Backend Developer (PHP/Laravel) | Full Stack Developer | WordPress Custom Plugin Specialist from Egypt</h3>
 
 <p align="center">
@@ -106,4 +106,125 @@
 <br/>
 
 
+ -->
+ <h1 align="center">Hi 👋, I'm Mahmoud Samy Heikal</h1>
+<h3 align="center">
+Software Engineer | Backend Developer (PHP/Laravel) | WordPress Custom Plugin Specialist
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msh38&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/msh38?label=Followers&style=flat" alt="followers" />
+</p>
+
+<p align="center">
+  📍 Alexandria & Cairo, Egypt — Available to relocate easily  
+</p>
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
+
+- 🎓 ITI Graduate – Full Stack Web Development using PHP & Laravel  
+- 💼 Backend Developer at **Shahbandr**
+- 🧩 Experience in **Laravel**, **PHP Native**, **WordPress/WooCommerce Custom Plugins**, **RESTful APIs**, and **Multi-tenant systems**
+- 🚀 Skilled in: System Design, Repository Pattern, SOLID Principles, API/Webhook Integrations
+- 📬 Contact me: **m.samy1011997@gmail.com**
+- 🤝 Open to: **Backend / PHP / Laravel Developer** roles
+- 🧠 Learner forever 🔥
+
+---
+
+## 📩 Connect with Me
+<p align="center">
+  <a href="mailto:m.samy1011997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-heikal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+
+## 🏢 Work Experience
+
+### 🔹 Backend Developer | Shahbandr *(May 2024 – Present)*
+- Building & rebranding WooCommerce and Shahbandr plugins (Amazon Pay, Stripe, Moyasar, Tamara, ClickPay, Kashier, Paymob…)
+- Developed scalable **Laravel** systems with payment & shipping integrations
+- Implemented **White-label** multi-tenant API for e-commerce store provisioning
+- Built **Shoppable Video** system with product tagging & analytics
+- Improved dashboards: orders, accounts, subscriptions, domains, DNS
+
+### 🔹 Part-Time Full Stack Developer | Blue Worldwide *(Jul 2023 – Sep 2023 & Jan – Mar 2024)*
+- Developed **Affiliate Dashboard** with Filament, Tailwind
+- Followed **Clean Architecture**, Repository Pattern & Jira DevOps
+- PostgreSQL & Performance-focused backend development
+
+### 🔹 Backend Developer | POSLIX *(Sep 2023 – Feb 2024)*
+- POS API development with **JWT Auth**, secure roles, multi-vendor support
+- Debugging & enhancing system reliability
+
+### 🔹 Backend Developer | Semicolon *(Feb 2024 – Freelancer)*
+- Backend development for Laravel MVC/API projects
+
+### 🔹 Freelance Web Developer *(2023)*
+- Delivered websites & dashboards independently with strong client satisfaction
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **BWW Affiliate Dashboard** (Live) | Affiliate-based e-commerce with financial automation & vendor onboarding | Laravel, PostgreSQL, Filament, Repository Pattern, SOLID, GitHub, Jira |
+| **Shahbandr White-Label API** | Automating store provisioning, billing, domains & onboarding | Laravel, Queues, Webhooks, REST APIs |
+| **Shoppable Video for WooCommerce** | Product-linked videos + analytics | PHP, JS, WooCommerce |
+| **POSLIX POS System** | Secure multi-vendor POS with JWT auth | Laravel, MySQL, API |
+| **Dacktra Medical Platform** (Live) | Booking system + Arabic PDF contracts | Laravel, Bootstrap |
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 🔹 Backend & Frameworks
+`PHP` · `Laravel` · `WordPress` · `WooCommerce` · `Repository Pattern` · `SOLID`
+
+### 🔹 Database & Storage
+`PostgreSQL` · `MySQL` · `SQLite` · `DB Design (ERD, PRD)`
+
+### 🔹 Frontend
+`HTML` · `CSS` · `Bootstrap` · `Tailwind CSS` · `JavaScript` · `jQuery` · `Alpine.js`
+
+### 🔹 DevOps & Tools
+`Git` · `GitHub` · `Jira` · `Docker (Basics)` · `Postman` · `REST APIs`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSH38&theme=tokyonight_duo" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MSH38&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MSH38&langs_count=10&theme=tokyonight" height="200px"/>
+</p>
+
+---
+
+## 🏆 Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MSH38&theme=algolia&column=6" alt="trophy"/>
+</p>
+
+---
+
+## 🧠 Soft Skills
+Teamwork · Communication · Problem-solving · Time Management · Self-learning
+
+---
+
+## 🌍 Languages
+Arabic (Native) — English (Good working proficiency)
+
+---
+
+## ⚠️ Usage Policy
+📌 **All Rights Reserved — No copying or reuse of design, code, or content without permission.**
+
+© 2025 Mahmoud Samy Heikal
 
