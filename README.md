@@ -113,7 +113,7 @@ Software Engineer | Backend Developer (PHP/Laravel) | WordPress Plugin Specialis
 </h3>
 
 <p align="center">
-📍 Based in Alexandria & Cairo, Egypt — Open to relocation  
+📍 Based in Cairo, Egypt — Open to relocation  
 </p>
 
 <p align="center">
