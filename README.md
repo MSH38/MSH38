@@ -113,7 +113,7 @@
 </h3>
 
 <p align="center">
-  📍 Based in <b>Cairo & Alexandria, Egypt</b> — Open to relocation
+  📍 Based in <b>Cairo, Egypt</b> — Open to relocation
 </p>
 
 <p align="center">
