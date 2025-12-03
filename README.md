@@ -137,7 +137,7 @@ Strong expertise in:
 ✔ Performance optimization, maintainable code & CI workflows  
 ✔ WordPress & WooCommerce plugin development
 
-Currently Backend Developer at **Shahbandr**, contributing to a commerce ecosystem serving **50K+ online stores**.
+Currently Backend Developer at **Shahbandr**, contributing to a commerce ecosystem serving **20K+ online stores**.
 
 Passionate about crafting high-quality software and continuously learning emerging technologies.
 
@@ -150,7 +150,7 @@ Passionate about crafting high-quality software and continuously learning emergi
 
 🎓 **ITI — Information Technology Institute**  
 Track: Full Stack Web Development Using PHP & Laravel  
-📍 Alexandria — Jul 2022 to Aug 2022
+📍 Jul 2022 to Aug 2022
 
 ---
 
